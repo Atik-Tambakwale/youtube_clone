@@ -1,0 +1,22 @@
+.headerBlock article {
+    display: flex;
+    background-color: #fff;
+    height: 70 px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1 px 1 px 7 px 1 px #eeeeee;
+}.headerBlock article div {
+    flex: 1;
+
+}
+
+.menuBlock
+{
+position : relative;
+left : 15%;
+
+}
+.menuBlock span{
+	padding-left:20px ;
+
+}
